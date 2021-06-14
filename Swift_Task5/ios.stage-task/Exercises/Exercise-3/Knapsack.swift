@@ -55,7 +55,7 @@ public final class Knapsack {
     private func getA(input: [Supply])-> [[Int]]{
 //        MARK: Инфо
 //        https://neerc.ifmo.ru/wiki/index.php?title=Задача_о_рюкзаке
-//        Горокаем алгоритмы гл.9 стр.206
+//        Горокаем алгоритмы гл.9 стр.206 - динамическое программирование
         
         let n = input.count //всего предметов
         var w = [0] //массив для хранения веса каждого предмета (нулевые элементы приравниваем к нулю)
