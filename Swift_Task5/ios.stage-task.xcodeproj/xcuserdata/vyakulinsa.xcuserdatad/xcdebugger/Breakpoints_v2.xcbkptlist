@@ -254,24 +254,8 @@
             filePath = "ios.stage-task/Exercises/Exercise-3/Knapsack.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "findMaxKilometres()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "65A1BA47-2010-46D1-98F1-2B525292A78F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ios.stage-task/Exercises/Exercise-3/Knapsack.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
             landmarkName = "findMaxKilometres()"
             landmarkType = "7">
          </BreakpointContent>
